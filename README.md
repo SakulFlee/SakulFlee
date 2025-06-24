@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SakulFlee!
+# 👋 Hi, I'm SakulFlee! 🌸🌸🌸
 
 🎓 **Student | Software Engineering Enthusiast**  
 💻 Coding since I was little — and still loving every minute of it.
