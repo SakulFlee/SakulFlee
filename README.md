@@ -35,7 +35,6 @@
 
 ### [Orbital Game Engine](https://github.com/SakulFlee/Orbital)  
 *A custom game engine project where I experiment with engine architecture, Rust, and AI.*  
-(Replace the # with your repo link when ready!)
 
 ---
 
